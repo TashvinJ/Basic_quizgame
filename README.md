@@ -1,2 +1,2 @@
 # Basic_quizgame
-This game is for beginners
+This quizgame is for beginners
