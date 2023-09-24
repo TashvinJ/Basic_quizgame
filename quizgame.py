@@ -1,6 +1,6 @@
 # import the required modules
 import time
-
+print("Welcome")
 
 # greetings
 print("Welcome to quize game")
